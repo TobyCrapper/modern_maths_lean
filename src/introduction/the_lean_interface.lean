@@ -5,7 +5,7 @@
 
 #reduce lean.version
 
-#reduce lean.version.fst
+#reduce lean.version.snd
 
 /- PROBLEM:
 
