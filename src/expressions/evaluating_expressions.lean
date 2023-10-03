@@ -17,5 +17,8 @@ Adapt the code above to evaluate other expressions, as described in the book.
 This is a block comment. It is ignored by Lean
 -/
 
-#eval 1 + 2 -- This line comment starts at the `--` and ends at the end of the line.
-
+#eval 1 + 2 + 3
+#eval 7 ^ 4
+#eval 6 - 3
+#eval 20 / 5
+#eval 10 + (2 * 5)
